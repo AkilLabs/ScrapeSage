@@ -83,13 +83,13 @@ def main():
     
     print("\n📝 Next steps:")
     print("1. Test the package locally:")
-    print("   pip install dist/akillabs_scraper-1.0.0-py3-none-any.whl")
+    print("   pip install dist/scrapesage-1.0.0-py3-none-any.whl")
     print("\n2. Upload to Test PyPI:")
     print("   python -m twine upload --repository testpypi dist/*")
     print("\n3. Upload to PyPI:")
     print("   python -m twine upload dist/*")
     print("\n4. Install from PyPI:")
-    print("   pip install akillabs-scraper")
+    print("   pip install scrapesage")
 
 if __name__ == "__main__":
     main()

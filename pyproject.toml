@@ -49,14 +49,14 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/akillabs/akillabs-scraper"
-Documentation = "https://github.com/akillabs/akillabs-scraper#readme"
-Repository = "https://github.com/akillabs/akillabs-scraper.git"
-"Bug Tracker" = "https://github.com/akillabs/akillabs-scraper/issues"
+Homepage = "https://github.com/akillabs/scrapesage"
+Documentation = "https://github.com/akillabs/scrapesage#readme"
+Repository = "https://github.com/akillabs/scrapesage.git"
+"Bug Tracker" = "https://github.com/akillabs/scrapesage/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["akillabs_scraper*"]
+include = ["scrapesage*"]
 
 [tool.black]
 line-length = 100

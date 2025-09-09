@@ -19,5 +19,3 @@ __author__ = "ScrapeSage"
 __email__ = "contact@scrapesage.com"
 
 __all__ = ["ScrapeSageScraper", "search_and_summarize"]
-
-__all__ = ["AkilLabsScraper", "search_and_summarize"]
